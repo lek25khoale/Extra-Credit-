@@ -54,7 +54,7 @@ Repeatedly pick the next interval whose start time is >= the finish time of the 
 
 cd "folder location you want to save"
 
-git clone "https://github.com/lek25khoale/Extra-Credit-.git"
+git clone "https://github.com/lek25khoale/Extra-Credit-.git" (if already cloned it just cd to the extra credit file again)
 
 cd "Greedy-Interval"
 
