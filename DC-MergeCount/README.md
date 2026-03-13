@@ -26,8 +26,6 @@ Return the sum of all three counts
 
 # How to run the code
 
-# How to run the code
-
 cd "folder location you want to save"
 
 git clone "https://github.com/lek25khoale/Extra-Credit-.git" (if already cloned it just cd to the extra credit file again)
