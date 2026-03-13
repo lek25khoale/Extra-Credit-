@@ -22,8 +22,6 @@ Choosing the node with the smallest π(v) at every step is the greedy choice whi
 
 # How to run the code
 
-# How to run the code
-
 cd "folder location you want to save"
 
 git clone "https://github.com/lek25khoale/Extra-Credit-.git" (if already cloned it just cd to the extra credit file again)
