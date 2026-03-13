@@ -4,6 +4,32 @@
 
 Find the shortest path distances from a source vertex src to all other vertices in a weighted undirected graph. All edge weights must be non-negative.
 
+Nodes used:
+
+A: 0
+
+B: 1
+
+C: 2
+
+D: 3
+
+E: 4
+
+Edges used:
+
+A-B: 2
+
+A-C: 9
+
+B-E: 7
+
+B-C: 1
+
+C-D: 5
+
+D-E: 11
+
 # Greedy Algorithm
 
 Maintain a set S of explored nodes for which the shortest path distance d(u) from s to u has been determined.
