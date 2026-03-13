@@ -21,3 +21,15 @@ Choosing the node with the smallest π(v) at every step is the greedy choice whi
 ![alt text](<Screenshot 2026-03-12 201703.png>)
 
 # How to run the code
+
+# How to run the code
+
+cd "folder location you want to save"
+
+git clone "https://github.com/lek25khoale/Extra-Credit-.git" (if already cloned it just cd to the extra credit file again)
+
+cd "Greedy-Djikstra"
+
+g++ -o Djik Djikstra.cpp
+
+./Djik (or .\Djik if it doesn't work)
