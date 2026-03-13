@@ -50,3 +50,14 @@ Repeatedly pick the next interval whose start time is >= the finish time of the 
 
 ![alt text](<Screenshot 2026-03-12 192359.png>)
 
+# How to run the code
+
+cd "folder location you want to save"
+
+git clone "https://github.com/lek25khoale/Extra-Credit-.git"
+
+cd "Greedy-Interval"
+
+g++ -o Interval IntervalSchedule.cpp
+
+./Interval (or .\Interval if it doesn't work)
